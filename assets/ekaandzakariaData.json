@@ -1,0 +1,131 @@
+{
+  "title": "undangan pernikahan",
+  "timestamp": 1716688800000,
+  "date": "Minggu, 26 Mei 2024",
+  "mainColor": "#B4D4FF",
+  "secondaryColor": "#3D3B40",
+  "textColor": "#0F0F0F",
+  "mainBgColor": "#EEF5FF",
+  "venue": {
+    "address": "GOR bulutangkis MG ( mugeni group ) Jl. Masjid No.1, RT.4/RW.5, Ratu Jaya, Kec. Cipayung, Kota Depok, Jawa Barat 16431",
+    "lat": -6.4161122,
+    "long": 106.815425
+  },
+  "quotes": {
+    "title": "Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu isteri-isteri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.",
+    "source": "QS. Ar-Rum: 21"
+  },
+  "prayer": {
+    "title": "Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu isteri-isteri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.",
+    "source": "QS. Ar-Rum: 21",
+    "native": "وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ"
+  },
+  "lang": "id",
+  "bride": {
+    "name": "Eka Aulia",
+    "instagram": "@ekaaulia",
+    "instagramLink": "https://instagram.com",
+    "shortName": "Eka",
+    "status": "Putri Pertama",
+    "fatherName": "Zubaidi",
+    "fatherSalutation": "Bapak",
+    "motherName": "Nasuha",
+    "motherSalutation": "Ibu"
+  },
+  "groom": {
+    "name": "Ahmad Zakaria",
+    "instagram": "@ahmadzakar",
+    "instagramLink": "https://instagram.com",
+    "shortName": "Zakaria",
+    "status": "Putra Pertama",
+    "fatherName": "Abd. Rosid",
+    "fatherSalutation": "Bapak",
+    "motherName": "Lusi",
+    "motherSalutation": "Ibu"
+  },
+  "events": [
+    {
+      "name": "Akad Nikah",
+      "date": "Minggu, 26 Mei 2024",
+      "details": "Acara Akad Nikah Eka & Zakaria",
+      "timestamp": 1716688800000,
+      "startTime": 1716688800000,
+      "endTime": 1716692400000,
+      "time": "09:00 - selesai",
+      "timezone": "WIB",
+      "venue": {
+        "venueName": "GOR bulutangkis MG ( mugeni group )",
+        "address": "Jl. Masjid No.1, RT.4/RW.5, Ratu Jaya, Kec. Cipayung, Kota Depok, Jawa Barat 16431",
+        "lat": -6.4162178,
+        "long": 106.8153752,
+        "link": "https://maps.app.goo.gl/A3sJq1RXAFW8J8qW8",
+        "isShow": true
+      }
+    },
+    {
+      "name": "Resepsi",
+      "date": "Minggu, 26 Mei 2024",
+      "details": "Acara Resepsi Eka & Zakaria",
+      "timestamp": 1716696000000,
+      "startTime": 1716696000000,
+      "endTime": 1716724800000,
+      "time": "11:00 - 19:00",
+      "timezone": "WIB",
+      "venue": {
+        "venueName": "GOR bulutangkis MG ( mugeni group )",
+        "address": "Jl. Masjid No.1, RT.4/RW.5, Ratu Jaya, Kec. Cipayung, Kota Depok, Jawa Barat 16431",
+        "lat": -6.4162178,
+        "long": 106.8153752,
+        "link": "https://maps.app.goo.gl/A3sJq1RXAFW8J8qW8",
+        "isShow": true
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "title": "Awal kenal",
+      "date": "Maret 2019",
+      "description": "kami kenal di sosial media media instagram dan berlanjut ke whatsapp lalu menjalani hubungan dengan baik"
+    },
+    {
+      "id": 2,
+      "title": "Tunangan",
+      "date": "Juni 2022",
+      "description": "singkat cerita kita memutuskan untuk bertunangan dan melanjutkan hubungan dengan komitmen"
+    },
+    {
+      "id": 3,
+      "title": "Lamaran",
+      "date": "Juni 2022",
+      "description": "singkat cerita kita memutuskan untuk bertunangan dan melanjutkan hubungan dengan komitmen"
+    },
+    {
+      "id": 4,
+      "title": "Pernikahan",
+      "date": "Mei 2024",
+      "description": "Finally, kita sampai di hubungan yg sakral yaitu penikahan kita yg dilaksanakan 26 mei 2024. Mungkin ini bukan suatu akhir dari perjalanan kita. Ini permulaan dari semua komitmen kita. Doakan kami untuk menjadi keluarga yg sakinah mawadah dan warohmah. Amiiinnnnnn"
+    }
+  ],
+  "gift": {
+    "title": "Kirim Hadiah",
+    "description": "Bagi saudara bapak/ibu/saudara/i yang ingin mengirimkan hadiah pernikahan dapat melalui virtual account, rekening, atau e-wallet di bawah ini",
+    "bankAccount": [
+      {
+        "bankName": "BCA",
+        "bankAccount": "7360591586",
+        "accountName": "Eka Aulia"
+      },
+      {
+        "bankName": "BCA",
+        "bankAccount": "1280526980",
+        "accountName": "Ahmad Zakaria"
+      }
+    ],
+    "sendGift": [{
+      "address":"Jl. Masjid No.1, RT.4/RW.5, Ratu Jaya, Kec. Cipayung, Kota Depok, Jawa Barat 16431",
+      "name": "Eka Aulia",
+      "phone": "+62 8xx xxxx xxxx"
+    }]
+  }
+}
